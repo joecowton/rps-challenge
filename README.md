@@ -16,13 +16,10 @@ I would like to be able to play rock/paper/scissors
 ## Instructions
 
 ```sh
-
-To run:
 $ gem bundle install
 $ ruby ruby.app
 
-http://localhost:4567/
-
+-> http://localhost:4567/
 ```
 ## Method
 
@@ -37,3 +34,7 @@ Once weapons are selected they're passed to a Game class which uses an array of 
 - views classes could be named better, maybe space to refactor here
 - routing could be tighter maybe, ran out of time to experiment further
 - would be nice to make result screen image reflect winning weapon
+
+![App](/img/rock.png)
+![App](/img/players.png)
+
