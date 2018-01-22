@@ -50,7 +50,7 @@ class RockPaperScissors < Sinatra::Base
     erb :game
   end
 
-  get '/play again' do
+  get '/play_again' do
     erb :index
   end
 
