@@ -35,6 +35,5 @@ Once weapons are selected they're passed to a Game class which uses an array of 
 - routing could be tighter maybe, ran out of time to experiment further
 - would be nice to make result screen image reflect winning weapon
 
-![App](/img/rock.png)
 ![App](/img/players.png)
-
+![App](/img/rock.png)
